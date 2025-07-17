@@ -22,10 +22,10 @@ public class About extends Stage {
         program = new Label("Program: Computer Science");
         program.setTextFill(Color.LIGHTGREEN);
         program.setFont(new Font("Verdana", 25));
-        name = new Label("Name: Shruti Vishrant");
+        name = new Label("Name: Kshrey Vishrant");
         name.setTextFill(Color.CYAN);
         name.setFont(new Font("Tahoma", 25));
-        watid = new Label("userid: svishran");
+        watid = new Label("userid: kvishran");
         watid.setTextFill(Color.PINK);
         watid.setFont(new Font("Tahoma", 25));
         Button done = new Button("Done");
