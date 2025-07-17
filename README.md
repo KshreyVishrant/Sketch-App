@@ -38,7 +38,7 @@ The shape which is selected by a select tool will have a black shadow on it to d
 
 - For exit, first you will asked if you want to save the file in a dialog box. If you click no, the drawing will not be saved and we will proceed with the loading part. If you click on yes, you will get a dialog box asking for the filename with which you want to save the file(a .txt file) and after submitting that your will be saved. After that, the system will exit.
 
--<b> Help:</b> The help menu will have a menu item about, clicking on which dialog will appear displaying my program(Computer Science), my name and my WATID.
+-<b> Help:</b> The help menu will have a menu item about, clicking on which dialog will appear displaying my program(Computer Science), my name and my Guelph ID.
 
 <b>Window Resizing: </b>
 
